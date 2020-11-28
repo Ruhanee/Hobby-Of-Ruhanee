@@ -1,0 +1,110 @@
+#welcome{
+    background: linear-gradient( #D4E157 0%, #FF5722 100%);
+    font-family: 'Grenze Gotisch', cursive;
+}
+#hi{
+    background: linear-gradient(#CE93D8 0%, #E91E63 100%);
+}
+p
+{
+  font-style:italic;
+  font-weight:bold;
+  font-size:20px;
+}
+#film
+{
+text-align:center;
+}
+#tapsee
+{
+  border-style:dashed;
+  border-width:5px;
+  border-color:#F50057;
+padding:2px;
+  border-radius:100%;
+  text-align:center;
+  
+}
+#t1
+{
+  text-align:center;
+}
+#f1{
+    font-family: 'Syne Mono', monospace;
+}
+#tapsee:hover{
+    cursor: pointer;
+}
+#click{
+    text-align: center;
+}
+.menu{
+    list-style: none;
+position: absolute;
+top: 10px;
+right: 50px;
+cursor: pointer;
+}
+.list{
+float: left;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+.list:hover{
+    background-color: beige;
+}
+.line{
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#Cr{
+    background:linear-gradient(#D50000 0%, #FF80AB 100%)
+}
+#work{
+    background: linear-gradient(#18FFFF 0%, #26A69A 100%)
+}
+h1{
+    text-align: center;
+}
+#rg{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%
+}
+#my-apps{
+    background: linear-gradient(#18FFFF 0%, #1A237E 100%)
+
+}
+#my-apps2{
+    background: linear-gradient(#E040FB 0%, #AD1457 100%)
+}
+#my-games{
+    background: linear-gradient(#E040FB 0%, #AD1457 100%)
+}
+#contact{
+    background: linear-gradient( #C5E1A5 0%, #33691E 100%)
+}
+#rr, #sm, #se, #poki, #maths, #ruhi{
+    height: 100px;
+    width: 110px;
+    border-radius: 30%
+}
+#g{
+    cursor: pointer;
+}
+#g:hover{
+    color: crimson;
+}
+#inspi{
+    background: linear-gradient(#E040FB 0%, #1A237E 100%)
+}
+#maps{
+    background: linear-gradient(#E040FB 0%, #1A237E 100%)
+}
+#maps{
+    background: linear-gradient( #1A237E  0%, #FF80AB 100%) !important
+}
